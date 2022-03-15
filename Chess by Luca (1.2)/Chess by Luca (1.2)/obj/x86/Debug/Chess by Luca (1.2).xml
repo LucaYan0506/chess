@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ChessbyLuca(1.2)
+</name>
+</assembly>
+<members>
+<member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Bishop_Black_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Bishop_White">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.BROWN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Chess_table">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Dice_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.King_Black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.KIng_White">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Knight_Black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Knight_White">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.LightBrown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Pawn_Black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Pawn_white">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Queen_Black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Queen_Black1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Queen_Black2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Queen_Black3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Queen_White">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Rock_Black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chess_by_Luca__1._2_.My.Resources.Resources.Rook_White">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Chess_by_Luca__1._2_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

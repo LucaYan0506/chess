@@ -1,0 +1,12 @@
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\bin\Debug\Chess by Luca (1.2).exe
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\bin\Debug\Chess by Luca (1.2).pdb
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\bin\Debug\Chess by Luca (1.2).xml
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess_by_Luca__1._2_.form1.resources
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess_by_Luca__1._2_.Resources.resources
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess by Luca (1.2).vbproj.GenerateResource.cache
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess by Luca (1.2).exe
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess by Luca (1.2).xml
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess by Luca (1.2).pdb
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess_by_Luca__1._2_.MsgboxWithUrl.resources
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess_by_Luca__1._2_.Dice.resources
+D:\School\IT\Visual Basic\Chess by luca\Chess by Luca (1.2)\Chess by Luca (1.2)\obj\x86\Debug\Chess_by_Luca__1._2_.Form2.resources
