@@ -1,5 +1,5 @@
 # chess
-I think everyone know what is chess and how to play. If not click [here](https://www.gameskinny.com/lnagr/2048-game-strategy-how-to-always-win-at-2048) to see the rule.
+I think everyone know what is chess and how to play. If not click [here](http://www.sakkpalota.hu/index.php/en/chess/rules) to see the rule.
 I re-did this game using VB. (hovewer it may not have some rules because I don't know how to play chess)
 
 ## How to download the game
